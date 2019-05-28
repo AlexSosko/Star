@@ -1,0 +1,9 @@
+input {
+    margin: 5px;
+}
+pre {
+   letter-spacing: 15px;
+}
+#msg {
+   height: 50px; 
+}
